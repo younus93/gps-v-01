@@ -43,7 +43,7 @@ net.createServer(function(socket) {
 		//Testing
 		console.log(d);
 		for(var i=0;i<d.length;i++)
-			console.log(d[i]);
+			console.log(d.readUInt8[i]);
 		
 	});
 }).listen(8000);
