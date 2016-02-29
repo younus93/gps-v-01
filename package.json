@@ -9,6 +9,7 @@
   "author": "YouFar",
   "license": "MIT",
   "dependencies": {
+    "moment": "^2.10.6",
     "mysql": "^2.9.0"
   }
 }
